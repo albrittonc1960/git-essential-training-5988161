@@ -1,2 +1,2 @@
 This is some text, this is some more text
-This is chnages tpo create a merge conflict
+This is changes to create a merge conflict
