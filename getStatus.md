@@ -1,1 +1,1 @@
-This is some text, different than online to create a merge conflict!!
+This is some text, different than online to create a merge conflict!!!
